@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jamildbiat.github.io/zephyr-picks/sitemap.xml
